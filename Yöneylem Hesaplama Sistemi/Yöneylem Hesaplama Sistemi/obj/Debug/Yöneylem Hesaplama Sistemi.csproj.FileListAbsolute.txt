@@ -1,0 +1,59 @@
+D:\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\bin\Debug\Yöneylem Hesaplama Sistemi.exe.config
+D:\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\bin\Debug\Yöneylem Hesaplama Sistemi.exe
+D:\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\bin\Debug\Yöneylem Hesaplama Sistemi.pdb
+D:\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem Hesaplama Sistemi.csprojResolveAssemblyReference.cache
+D:\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Properties.Resources.resources
+D:\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem Hesaplama Sistemi.csproj.GenerateResource.Cache
+D:\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem Hesaplama Sistemi.exe
+D:\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem Hesaplama Sistemi.pdb
+D:\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Ulaştırma_Modelleri.resources
+D:\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.KuzeyBatiYontemi.resources
+D:\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Ulastirmamodelleriayarlari.resources
+D:\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Arayüz.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\bin\Debug\Yöneylem Hesaplama Sistemi.exe.config
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem Hesaplama Sistemi.exe
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem Hesaplama Sistemi.pdb
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\bin\Debug\Yöneylem Hesaplama Sistemi.exe
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\bin\Debug\Yöneylem Hesaplama Sistemi.pdb
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem Hesaplama Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Arayüz.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Properties.Resources.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Ulastirmamodelleriayarlari.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Ulaştırma_Modelleri.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem Hesaplama Sistemi.csproj.GenerateResource.Cache
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.KuzeyBatiYontemi.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.EnDusukMaliyetYontemi.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Hakkinda.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.SiraVeSutunEnKucugu.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.VogelYaklasimYontemi.resources
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\bin\Debug\Yöneylem Hesaplama Sistemi.exe.config
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem Hesaplama Sistemi.exe
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem Hesaplama Sistemi.pdb
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\bin\Debug\Yöneylem Hesaplama Sistemi.exe
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\bin\Debug\Yöneylem Hesaplama Sistemi.pdb
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem Hesaplama Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.EnDusukMaliyetYontemi.resources
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Arayüz.resources
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Hakkinda.resources
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.KuzeyBatiYontemi.resources
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Properties.Resources.resources
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.SiraVeSutunEnKucugu.resources
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Ulastirmamodelleriayarlari.resources
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Ulaştırma_Modelleri.resources
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.VogelYaklasimYontemi.resources
+C:\Users\omer_\Desktop\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem Hesaplama Sistemi.csproj.GenerateResource.Cache
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.Karar_Modelleri.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.BelirlilikAltındaKararVermeFayda.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.BelirlilikAltındaKararVermeMaliyet.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.RiskAltındaKararVermeFayda.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.RiskAltındaKararVermeMaliyet.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.BelirsizlikAltındaEsolasılıkFayda.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.BelirsizlikAltındaEsolasılıkMaliyet.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.BelirsizlikAltındaiyimserlikMaliyet.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.BelirsizlikAltındaiyimserlikFayda.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.BelirsizlikAltındakotumserlikFayda.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.BelirsizlikAltındakotumserlikMaliyet.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.BelirsizlikAltındaPismanlikFayda.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.BelirsizlikAltındaPismanlikMaliyet.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.BelirsizlikAltındaHurwiczFayda.resources
+C:\Users\omer_\OneDrive\promikler\Yöneylem Hesaplama Sistemi\Yöneylem Hesaplama Sistemi\obj\Debug\Yöneylem_Hesaplama_Sistemi.BelirsizlikAltındaHurwiczMaliyet.resources
